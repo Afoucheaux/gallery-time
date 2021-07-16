@@ -20,7 +20,7 @@
 
 ## About The Project
 
-This project utilizes Create React App to build an application which allows users to view a list galleries based on their geo-location, see details on individual gallery and save then to favorites. Throughout the project, learning goals included:
+This project utilizes Create React App to build an application which allows users to view a list galleries based on their geo-location, see details on individual gallery and save them to favorites. Throughout the project, learning goals included:
 
 - Architect an application structure using functional components and hooks
 - Gain competency with React fundamentals
